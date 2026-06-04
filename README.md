@@ -1,6 +1,6 @@
 # Ex.4 Generate the Prompt and eveluate the different prompt types
 ### DATE:                                                                            
-### REGISTER NUMBER : 212223240037
+### REGISTER NUMBER : 212223230150
 # Aim: 
 To write the prompt for the following prompt types and compare that with differenet AI tools and evaluate that using any one evaluation method (eg. Rubrics).  
 - Comparative Analysis Prompt  
